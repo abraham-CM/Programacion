@@ -1,1 +1,1 @@
-tagSearchIndex = [{"l":"La clase cuentaBancaria, se utiliza para retirar y depositar dinero en el banco","h":"class Excepciones.cuentaBancaria","d":"Section","u":"UT6/Excepciones/cuentaBancaria.html#la-clase-cuentabancaria-se-utiliza-para-retirar-y-depositar-dinero-en-el-banco-heading"}];updateSearchResults();
+tagSearchIndex = [];updateSearchResults();

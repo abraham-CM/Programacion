@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Excepciones","l":"cuentaBancaria"}];updateSearchResults();
+typeSearchIndex = [{"p":"ejePOO20del02","l":"Administradores"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
