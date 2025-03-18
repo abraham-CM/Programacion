@@ -79,7 +79,7 @@ try {
 					}
 					} catch (Exception e) {
 						System.out.println("introduce un valor valido");
-						break;
+						
 					}
 				}
 				break;
@@ -143,5 +143,6 @@ try {
 }
 		}
 
+		
 	}
 }
